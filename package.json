@@ -1,0 +1,19 @@
+{
+  "name": "lipi-app",
+  "productName": "Lipi",
+  "version": "1.0.0",
+  "description": "App to invite linkedin connections to follow company page",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Tsang",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  }
+}
